@@ -2,7 +2,7 @@
 Proyecto inicial en React, sin el uso del constructor de react, solamente se utilizan herramientas del nucleo como webpack y babel
 
 ## Funcionamiento 📋
-Se utiliza webpack y babel para generar los archivos del cliente, convirtiendo todo el js, jxs, tsx y css en un un solo grupo de archivos para del cliente para el navegador
+Se utiliza webpack y babel para generar los archivos del cliente, convirtiendo todo el js, jxs, tsx y css en un un solo grupo de archivos para el cliente del navegador
 
 ## Typescript
 Se tiene como lenguaje principal "typescript", el cual es un lenguaje que le agrega un fuerte tipado a todo el codigo, no obstante, se puede aun utilizar el javascript normal
@@ -10,6 +10,11 @@ Se tiene como lenguaje principal "typescript", el cual es un lenguaje que le agr
 ## ejecución 🚀
 
 COMANDOS NPM
+
+- Para no olvidar !! comando de instalación de dependencias npm
+```bash
+  npm install
+```
 
 - Para arrancar el servidor de desarrollo y el webpack
 ```bash
